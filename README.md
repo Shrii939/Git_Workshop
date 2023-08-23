@@ -78,7 +78,7 @@ brew install git
 ### On Windows
 On Windows, you can download the installer from [git-scm.com](https://git-scm.com/download/win)
 
-Configuring Git
+## Configuring Git
 Once Git is installed, you need to configure your name and email to associate with commits:
 ```
 git config --global user.name "Your Name"
@@ -92,7 +92,6 @@ git config --global user.email "your@email.com"
 
 Cloning a repository copies the entire history of the project. It downloads a project and its entire code history. This is useful if you want to contribute to an existing project or want to use a project as a starting point for your own idea. 
 
-## Cloning a Repository
 
 Cloning a repository copies the entire project history locally. This allows you to contribute back to the project or use it as a starting point for your own idea.
 
@@ -148,14 +147,14 @@ ls -R
 ```
 
 The main commands for navigation are:
-
-cd - Change directory
-ls - List files and directories
-pwd - Print working directory
-cd .. - Go up one directory
-.  - Current directory 
-cd folder - Go into folder from current directory
-
+*
+cd - Change directory \n
+ls - List files and directories \n
+pwd - Print working directory \n
+cd .. - Go up one directory \n
+.  - Current directory \n
+cd folder - Go into folder from current directory\n
+*
 ## DO THE MODIFICATIONS
 
 ## Here is the git command to push code to GitHub:
