@@ -104,7 +104,7 @@ Forking a repository allows you to freely experiment with changes without affect
 Forking a repository also lets you contribute back to the original without having to ask for write access.
 
 
-# Navigating the Project
+## Navigating the Project
 
 Once you have cloned a Git repository, you can navigate through the project directory using Bash commands like `cd` and `ls`.
 
@@ -143,7 +143,7 @@ cd folder - Go into folder from current directory
 ## DO THE MODIFICATIONS
 
 ## Here is the git command to push code to GitHub:
-# Pushing Code to GitHub
+## Pushing Code to GitHub
 
 To start, you'll need to commit your changes locally first before pushing to GitHub. 
 
@@ -222,7 +222,7 @@ Here are some explanations of common Git commands that could be useful:
 - Switches to a different branch. Detaches HEAD to that branch.
 - Usage: `git checkout new-feature`
 
-## what is a README.md File 
+## What is a README.md File 
 A README.md file is a text file that provides information about a software project. It is written in Markdown format and usually included in the root directory of a project.
 
 Some common sections in a README.md file:
