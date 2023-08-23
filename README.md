@@ -1,7 +1,7 @@
 
 # Table of Contents
 
-- [Introduction to Git](#introduction)
+- [Introduction to Git](#introduction-what-is-git)
 - [Installing Git](#installing-git)  
 - [Configuring Git](#configuring-git)
 - [Cloning a Repository](#cloning-a-repository)
@@ -21,7 +21,10 @@
 
 Git is a free and open-source distributed version control system (VCS), which is designed to handle everything from small to very large projects with speed and efficiency.
 
-[![Video Title](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+Here is a video introduction:
+
+[![Git Tutorial for Beginners](http://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](http://www.youtube.com/watch?v=pBy1zgt0XPc)
+
 
 
 ### What is a VCS?
