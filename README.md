@@ -72,6 +72,9 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
 
+### Git Desktop
+[ Git Desktop ](https://docs.github.com/en/desktop)
+
 ## Cloning a repository
 
 Cloning a repository copies the entire history of the project. It downloads a project and its entire code history. This is useful if you want to contribute to an existing project or want to use a project as a starting point for your own idea. 
