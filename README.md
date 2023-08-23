@@ -148,12 +148,12 @@ ls -R
 
 The main commands for navigation are:
 *
-cd - Change directory \n
-ls - List files and directories \n
-pwd - Print working directory \n
-cd .. - Go up one directory \n
-.  - Current directory \n
-cd folder - Go into folder from current directory\n
+cd - Change directory
+ls - List files and directories 
+pwd - Print working directory 
+cd .. - Go up one directory 
+.  - Current directory 
+cd folder - Go into folder from current directory
 *
 ## DO THE MODIFICATIONS
 
