@@ -316,39 +316,65 @@ So in summary, contributing to open source allows developers to hone their skill
 
 
 ## Advance-GitHub
-# Git Command Summary
+# Beginner Git Commands
 
-Here is a summary of common Git commands:
+- `git init`: Initialize a new Git repository.
 
-- `git branch` - List, create, or delete branches
-- `git checkout` - Switch between branches or restore working tree files
-- `git merge` - Combine changes from different branches
-- `git diff` - Show changes between commits, branches, or files
-- `git log` - Show commit history 
-- `git remote add` - Connect local repository to a remote repo
-- `git push` - Push commits to remote repository
-- `git pull` - Fetch and merge commits from remote repo
-- `git fetch` - Fetch commits from remote repo
-- `git clone` - Clone a remote repo into a new local directory
-- `git init` - Initialize a new local Git repo
-- `git config` - Set configuration values like username and email
-- `git status` - Show changed files and repo status
-- `git add` - Stage files for commit
-- `git commit` - Commit staged files to local repo
-- `git rm` - Remove files from working tree and stage removal
-- `git mv` - Move or rename files and stage changes
-- `git restore` - Restore files in working tree to last commit
-- `git reset` - Reset current HEAD to specified state
-- `git stash` - Stash changes for later
-- `git tag` - Manage Git tags to mark versions
-- `git show` - Show information about a Git object
+- `git clone [URL]`: Clone a remote repository to your local machine.
 
-And some other common commands:
+- `git add [file]`: Stage changes for the next commit. 
 
-- `git remote -v` - List remote repositories
-- `git config --global` - Set global configuration
-- `git commit --amend` - Edit most recent commit
-- `git log --oneline` - Condensed commit history
-- `git log --graph` - Visualize branch history
-- `git blame` - Show who changed each line last
-- `git revert` - Undo changes from earlier commit
+- `git commit -m "message"`: Create a new commit with staged changes and a message.
+
+- `git status`: Show the status of your working directory.
+
+- `git log`: Display the commit history.
+
+- `git diff`: Show differences between working directory and the last commit.
+
+- `git branch`: List local branches.
+
+- `git checkout [branch]`: Switch to a different branch.
+
+- `git merge [branch]`: Merge changes from another branch into the current branch.
+
+- `git remote -v`: Show remote repositories linked to your local repository.
+
+- `git pull [remote] [branch]`: Pull changes from a remote repository into your current branch.
+
+- `git push [remote] [branch]`: Push local commits to a remote repository.
+
+
+# Intermediate Git Commands
+
+- `git remote add [name] [URL]`: Add a new remote repository to your local repository.
+
+- `git fetch [remote]`: Download remote changes without merging them.
+
+- `git stash`: Temporarily save changes without committing to switch branches or tasks.
+
+- `git tag [name] [commit]`: Create a lightweight tag to mark a specific commit.
+
+- `git log --oneline`: Display a condensed commit history with commit messages.
+
+- `git log --graph`: Visualize the commit history as a graph.
+
+- `git blame [file]`: Show who last modified each line in a file.
+
+- `git revert [commit]`: Create a new commit that undoes changes introduced by a previous commit.
+
+- `git reset [file]`: Unstage changes for a specific file. 
+
+- `git reset [commit]`: Move the current branch backward in history, discarding commits.
+
+- `git reflog`: View a log of all reference changes in the repository.
+
+- `git cherry-pick [commit]`: Apply a specific commit from one branch to another.
+
+- `git commit --amend`: Edit the most recent commit or its message.
+
+- `git show [commit]`: Display detailed information about a specific commit.
+
+- `git remote show [remote]`: Display information about a remote repository.
+
+- `git mv [old] [new]`: Move or rename files and stage the changes.
