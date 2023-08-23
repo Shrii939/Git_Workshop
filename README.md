@@ -316,7 +316,7 @@ So in summary, contributing to open source allows developers to hone their skill
 
 
 ## Advance-GitHub
-# Beginner Git Commands
+### Beginner Git Commands
 
 - `git init`: Initialize a new Git repository.
 
