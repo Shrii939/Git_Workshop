@@ -13,6 +13,9 @@
 - [README.md File](#what-is-a-readmemd-file)
 - [Official Docs ](#official-docs)
 - [ VS extention](#vs-code--extensions)
+- [Student Developer pack](#github-student-developer-pack)
+- [Open Source](#learn-about-open-source)
+- [GitHub Advance](#Advance-GitHub)
 
 ## Introduction: What is GIT?
 
@@ -260,3 +263,92 @@ Table of contents - Allows quickly jumping to different sections.
 ## VS CODE -Extensions
     Git Lens
     GitHub Copilot
+
+## GitHub Student Developer Pack
+
+[Student Developer Pack](https://education.github.com/pack)
+
+The GitHub Student Developer Pack is a collection of tools and services that GitHub offers to students for free. It's designed to help students learn and build software projects more effectively by providing access to various resources used in software development. The pack includes a wide range of tools, cloud services, development environments, and learning resources that are essential for students pursuing computer science, programming, and related fields.
+
+Here are some of the benefits typically included in the GitHub Student Developer Pack:
+
+- **GitHub Pro:** Provides unlimited private repositories on GitHub, allowing students to work on personal projects privately.
+
+- **Free Software and Tools:** The pack includes a variety of software and development tools, such as code editors, version control software, and more.
+
+- **Cloud Services:** Offers credits for cloud services like AWS, Azure, and DigitalOcean, allowing students to deploy and host their projects online.
+
+- **Learning Resources:** Access to online courses, tutorials, and learning platforms to help students enhance their programming and development skills.
+
+- **Domain Name:** A free domain name for a year, which can be used to host personal websites or projects. 
+
+- **Developer Licenses:** Some packs include access to developer licenses for specific tools and software.
+
+- **API Access:** Access to certain APIs for building applications and projects.
+
+To be eligible for the GitHub Student Developer Pack, students need to be at least 13 years old and enrolled in a degree-granting program, such as a university or college. The availability of specific tools and services can vary over time, and GitHub often partners with various companies and organizations to provide these resources.
+
+To apply for the pack, students typically need to verify their student status through GitHub's education program. This program aims to support student developers and empower them with the tools they need to excel in their studies and projects.
+
+## Learn about open source 
+
+# Why Contributing to Open Source is Important
+
+Here are some key reasons why contributing to open source projects is important:
+
+- **Improve Coding Skills:** Working on real-world open source projects helps developers improve their coding abilities and learn new skills from other collaborators. It provides hands-on experience.
+
+- **Gain Visibility:** Open source contributions allow developers to showcase their work publicly and build a reputation based on their work. It helps get noticed by potential employers. 
+
+- **Give Back:** Contributing to open source lets developers give back to the open source community which has created many tools and resources they use. It helps support open source projects.
+
+- **Collaborate:** Developers get to collaborate with other talented peers in the open source community and learn from them. It fosters teamwork and connection.
+
+- **Solve Interesting Problems:** Open source projects offer interesting, challenging problems to solve across domains. Developers get to work on what they enjoy.
+
+- **Improve Software for Everyone:** By contributing to open source tools and projects that many people use, developers can help improve software and technology for everyone.
+
+- **Learn Real-World Collaboration:** Working with distributed teams on open source repositories teaches collaboration, communication, and version control skills. 
+
+- **Gain Early Experience:** Students and new developers can gain experience by contributing to open source, as it provides opportunities to work on production-level code early on.
+
+So in summary, contributing to open source allows developers to hone their skills, build their profile, give back to the community, and be part of improving software that benefits everyone. It's a great way to grow as a developer.
+
+
+## Advance-GitHub
+# Git Command Summary
+
+Here is a summary of common Git commands:
+
+- `git branch` - List, create, or delete branches
+- `git checkout` - Switch between branches or restore working tree files
+- `git merge` - Combine changes from different branches
+- `git diff` - Show changes between commits, branches, or files
+- `git log` - Show commit history 
+- `git remote add` - Connect local repository to a remote repo
+- `git push` - Push commits to remote repository
+- `git pull` - Fetch and merge commits from remote repo
+- `git fetch` - Fetch commits from remote repo
+- `git clone` - Clone a remote repo into a new local directory
+- `git init` - Initialize a new local Git repo
+- `git config` - Set configuration values like username and email
+- `git status` - Show changed files and repo status
+- `git add` - Stage files for commit
+- `git commit` - Commit staged files to local repo
+- `git rm` - Remove files from working tree and stage removal
+- `git mv` - Move or rename files and stage changes
+- `git restore` - Restore files in working tree to last commit
+- `git reset` - Reset current HEAD to specified state
+- `git stash` - Stash changes for later
+- `git tag` - Manage Git tags to mark versions
+- `git show` - Show information about a Git object
+
+And some other common commands:
+
+- `git remote -v` - List remote repositories
+- `git config --global` - Set global configuration
+- `git commit --amend` - Edit most recent commit
+- `git log --oneline` - Condensed commit history
+- `git log --graph` - Visualize branch history
+- `git blame` - Show who changed each line last
+- `git revert` - Undo changes from earlier commit
