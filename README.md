@@ -21,6 +21,8 @@
 
 Git is a free and open-source distributed version control system (VCS), which is designed to handle everything from small to very large projects with speed and efficiency.
 
+# Introduction 
+
 Here is a video introduction:
 
 [![Git Tutorial for Beginners](http://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](http://www.youtube.com/watch?v=pBy1zgt0XPc)
