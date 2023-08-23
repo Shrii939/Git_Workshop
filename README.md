@@ -11,10 +11,15 @@
 - [Creating Branches](#creating-github-branches)
 - [Git Commands Summary](#git-command-summary)
 - [README.md File](#what-is-a-readmemd-file)
+- [Official Docs ](#official-docs)
+- [ VS extention](#vs-code--extensions)
 
 ## Introduction: What is GIT?
 
 Git is a free and open-source distributed version control system (VCS), which is designed to handle everything from small to very large projects with speed and efficiency.
+
+[![Video Title](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
 
 ### What is a VCS?
 
@@ -245,3 +250,13 @@ Credits/attributions - Recognize contributors, libraries used, tutorials followe
 Contact info - Ways to get in touch with the maintainer.
 
 Table of contents - Allows quickly jumping to different sections.
+
+## Official Docs
+[ Official Docs ](https://docs.github.com/en/get-started/quickstart)
+[ GitHub Education ](https://docs.github.com/en/education)
+[ Video ](https://youtu.be/pBy1zgt0XPc) 
+
+
+## VS CODE -Extensions
+    Git Lens
+    GitHub Copilot
