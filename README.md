@@ -76,7 +76,7 @@ git config --global user.email "your@email.com"
 
 Cloning a repository copies the entire history of the project. It downloads a project and its entire code history. This is useful if you want to contribute to an existing project or want to use a project as a starting point for your own idea. 
 
-# Cloning a Repository
+## Cloning a Repository
 
 Cloning a repository copies the entire project history locally. This allows you to contribute back to the project or use it as a starting point for your own idea.
 
