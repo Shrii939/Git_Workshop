@@ -1,12 +1,14 @@
 ## YOUR NAME
+Shridhar
 
 ## USN
-
+4mw20cs082
 
 ## CONTACT DETAILS
-
+shridhara.20cs082@sode-edu.in
 
 ## ABOUT YOU
+Currently in my 4th year Engineering, Aspiring FullStck developer
 
 Hack to generate README.md file 
 1) Use ChatGpt 
