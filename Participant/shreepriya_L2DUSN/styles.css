@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  overflow: hidden; /* Prevent scrolling */
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+
+.nav-title {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+.toggle-button {
+  background-color: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 50%;
+  color: white;
+  font-size: 26px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  right: 70px;
+  transform: translateY(-50%);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.card {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 10px 15px 80px rgba(52, 191, 226, 0.932);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  z-index: 1;
+}
+
+/* .card::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  box-shadow: 0 0 90px rgba(255, 252, 252, 0.8);
+} */
+
+.card-content {
+  position: relative;
+  z-index: 1;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
+
+body.light-theme {
+  background-color: rgb(250, 248, 248);
+  color: black;
+}
+
+body.dark-theme {
+  background-color: #333;
+  color: white;
+  .card{
+    box-shadow: 10px 4px 80px rgba(255, 255, 255, 0.301);
+
+  }
+}
